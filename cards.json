@@ -1,1 +1,82 @@
-[{"Cogn": "Optimism Bias", "Bio": "Protective factors", "Soc": "Steele & Aronson (1995)Levels of Culture", "Abn": "Weissman et al 2005", "EMT": "Protection from undue harm", "ERQ": "Discuss ethical considerations relevant to the study of the reliability of cognitive processes."}, {"Cogn": "Illusory correlations", "Bio": "Cortisol Hypothesis", "Soc": "Tajfel", "Abn": "Agonist", "EMT": "Internal validity", "ERQ": "Discuss the role of genes in one or more behaviours."}, {"Cogn": "Schema", "Bio": "Aaron Beck", "Soc": "Cultural dimensions", "Abn": "Neurotransmitter", "EMT": "External validity", "ERQ": "Discuss/evaluate/contrast research methods used to study the role of culture in behaviour."}, {"Cogn": "Confirmation Bias", "Bio": "Joiner", "Soc": "Acculturation", "Abn": "Eugene Pauly", "EMT": "Anonymity", "ERQ": "Evaluate one model of memory."}, {"Cogn": "Working Memory Model", "Bio": "Incidence", "Soc": "Social identity theory", "Abn": "Wedekind", "EMT": "Semi-Structured Interview", "ERQ": "Evaluate one or more explanations for biases in thinking and/or decision-making."}, {"Cogn": "Framing Effect", "Bio": "emic", "Soc": "Bandura", "Abn": "Maguire", "EMT": "Repeated Measures Design", "ERQ": "Discuss one biological approach to the treatment of disorders."}, {"Cogn": "Dual Process Model of Thinking and Decision Making", "Bio": "Prevelence", "Soc": "Direct Model SCT", "Abn": "Genetics", "EMT": "True experiment", "ERQ": "Discuss/evaluate/contrast research methods used to study the role of genetics in behaviour."}, {"Cogn": "Anchoring Bias", "Bio": "Brown & Harris", "Soc": "Stereotypes", "Abn": "Evolution", "EMT": "Populational validity", "ERQ": "To what extent does genetic inheritance/similarity influence human behaviour?"}, {"Cogn": "Sunk cost fallacy", "Bio": "Kendler", "Soc": "Indirect Model SCT", "Abn": "Adrenaline", "EMT": "Questionnaire", "ERQ": "Discuss ethical considerations relevant to the study of the role of genetics in behaviour."}, {"Cogn": "Availability Heuristic", "Bio": "CBT", "Soc": "Social cognitive theory", "Abn": "Antagonist", "EMT": "Confidentiality", "ERQ": "Contrast two models of memory."}]
+[
+  {
+    "Cogn": "Optimism Bias",
+    "Bio": "Protective factors",
+    "Soc": "Steele & Aronson (1995)Levels of Culture",
+    "Abn": "Weissman et al 2005",
+    "EMT": "Protection from undue harm",
+    "ERQ": "Discuss ethical considerations relevant to the study of the reliability of cognitive processes."
+  },
+  {
+    "Cogn": "Illusory correlations",
+    "Bio": "Cortisol Hypothesis",
+    "Soc": "Tajfel",
+    "Abn": "Agonist",
+    "EMT": "Internal validity",
+    "ERQ": "Discuss the role of genes in one or more behaviours."
+  },
+  {
+    "Cogn": "Schema",
+    "Bio": "Aaron Beck",
+    "Soc": "Cultural dimensions",
+    "Abn": "Neurotransmitter",
+    "EMT": "External validity",
+    "ERQ": "Discuss/evaluate/contrast research methods used to study the role of culture in behaviour."
+  },
+  {
+    "Cogn": "Confirmation Bias",
+    "Bio": "Joiner",
+    "Soc": "Acculturation",
+    "Abn": "Eugene Pauly",
+    "EMT": "Anonymity",
+    "ERQ": "Evaluate one model of memory."
+  },
+  {
+    "Cogn": "Working Memory Model",
+    "Bio": "Incidence",
+    "Soc": "Social identity theory",
+    "Abn": "Wedekind",
+    "EMT": "Semi-Structured Interview",
+    "ERQ": "Evaluate one or more explanations for biases in thinking and/or decision-making."
+  },
+  {
+    "Cogn": "Framing Effect",
+    "Bio": "emic",
+    "Soc": "Bandura",
+    "Abn": "Maguire",
+    "EMT": "Repeated Measures Design",
+    "ERQ": "Discuss one biological approach to the treatment of disorders."
+  },
+  {
+    "Cogn": "Dual Process Model of Thinking and Decision Making",
+    "Bio": "Prevelence",
+    "Soc": "Direct Model SCT",
+    "Abn": "Genetics",
+    "EMT": "True experiment",
+    "ERQ": "Discuss/evaluate/contrast research methods used to study the role of genetics in behaviour."
+  },
+  {
+    "Cogn": "Anchoring Bias",
+    "Bio": "Brown & Harris",
+    "Soc": "Stereotypes",
+    "Abn": "Evolution",
+    "EMT": "Populational validity",
+    "ERQ": "To what extent does genetic inheritance/similarity influence human behaviour?"
+  },
+  {
+    "Cogn": "Sunk cost fallacy",
+    "Bio": "Kendler",
+    "Soc": "Indirect Model SCT",
+    "Abn": "Adrenaline",
+    "EMT": "Questionnaire",
+    "ERQ": "Discuss ethical considerations relevant to the study of the role of genetics in behaviour."
+  },
+  {
+    "Cogn": "Availability Heuristic",
+    "Bio": "CBT",
+    "Soc": "Social cognitive theory",
+    "Abn": "Antagonist",
+    "EMT": "Confidentiality",
+    "ERQ": "Contrast two models of memory."
+  }
+]
