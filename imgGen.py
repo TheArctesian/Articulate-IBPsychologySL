@@ -1,6 +1,5 @@
 import json
-import html2image
-
+from imgmaker import imgmaker
 
 class Card:
     def __init__(self, Cog, Abnor, Socul, Bio, EMT, ERQ):
@@ -23,9 +22,13 @@ class Card:
 
 
 def imgGen(card):
-    html=f"<h1>Psychology Articulate</h1><br>"
-    image = html2image.screenshot()
-
+    i = imgmaker()
+    i.genrate(
+        "Hero",
+        {
+            "Title" : "1"
+        }
+    )
 
 if __name__ == "__main__":
     with open("cards.json") as JF:
