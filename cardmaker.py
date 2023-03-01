@@ -280,7 +280,7 @@ class Card:
 def randomEl(listName):
     try:
         element = random.choice(listName)
-        listName.remove(element)
+#        listName.remove(element)
         return element
     except IndexError:
         print(err)
@@ -308,7 +308,7 @@ def writer(list) -> None:
 if __name__ == "__main__":
     print("ERQ Length", len(ERQ))
     JsonCards = []
-    for i in range(17):
+    for i in range(50):
         tempCard = initCard()
         JsonCards.append(tempCard.dict())
     writer(JsonCards)
