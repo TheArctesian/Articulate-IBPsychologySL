@@ -1,82 +1,138 @@
 [
   {
-    "Cogn": "Optimism Bias",
-    "Bio": "Protective factors",
-    "Soc": "Steele & Aronson (1995)Levels of Culture",
-    "Abn": "Weissman et al 2005",
-    "EMT": "Protection from undue harm",
-    "ERQ": "Discuss ethical considerations relevant to the study of the reliability of cognitive processes."
-  },
-  {
-    "Cogn": "Illusory correlations",
-    "Bio": "Cortisol Hypothesis",
-    "Soc": "Tajfel",
-    "Abn": "Agonist",
-    "EMT": "Internal validity",
-    "ERQ": "Discuss the role of genes in one or more behaviours."
-  },
-  {
-    "Cogn": "Schema",
+    "Cog": "Loftus & Pickrell (1974)",
     "Bio": "Aaron Beck",
-    "Soc": "Cultural dimensions",
-    "Abn": "Neurotransmitter",
-    "EMT": "External validity",
-    "ERQ": "Discuss/evaluate/contrast research methods used to study the role of culture in behaviour."
-  },
-  {
-    "Cogn": "Confirmation Bias",
-    "Bio": "Joiner",
-    "Soc": "Acculturation",
-    "Abn": "Eugene Pauly",
-    "EMT": "Anonymity",
-    "ERQ": "Evaluate one model of memory."
-  },
-  {
-    "Cogn": "Working Memory Model",
-    "Bio": "Incidence",
-    "Soc": "Social identity theory",
-    "Abn": "Wedekind",
-    "EMT": "Semi-Structured Interview",
-    "ERQ": "Evaluate one or more explanations for biases in thinking and/or decision-making."
-  },
-  {
-    "Cogn": "Framing Effect",
-    "Bio": "emic",
     "Soc": "Bandura",
     "Abn": "Maguire",
-    "EMT": "Repeated Measures Design",
-    "ERQ": "Discuss one biological approach to the treatment of disorders."
+    "EMT": "Quantitative",
+    "ERQ": "Discuss ethical considerations relevant to the study of emotion and cognition."
   },
   {
-    "Cogn": "Dual Process Model of Thinking and Decision Making",
-    "Bio": "Prevelence",
-    "Soc": "Direct Model SCT",
-    "Abn": "Genetics",
-    "EMT": "True experiment",
+    "Cog": "Anchoring",
+    "Bio": "Incidence",
+    "Soc": "Hamilton & Gifford",
+    "Abn": "Hormone",
+    "EMT": "Magnetic Resonance Imaging (MRI)",
     "ERQ": "Discuss/evaluate/contrast research methods used to study the role of genetics in behaviour."
   },
   {
-    "Cogn": "Anchoring Bias",
-    "Bio": "Brown & Harris",
-    "Soc": "Stereotypes",
-    "Abn": "Evolution",
-    "EMT": "Populational validity",
-    "ERQ": "To what extent does genetic inheritance/similarity influence human behaviour?"
+    "Cog": "Emotions & memory",
+    "Bio": "MDD",
+    "Soc": "Vicarious Reinforcment SCT",
+    "Abn": "Neuroplasticity",
+    "EMT": "Standardise",
+    "ERQ": "Discuss one etiology of one disorder."
   },
   {
-    "Cogn": "Sunk cost fallacy",
+    "Cog": "Just World Hypothesis",
+    "Bio": "Internal model of illness",
+    "Soc": "Direct Model SCT",
+    "Abn": "Wedekind",
+    "EMT": "Retrospective study",
+    "ERQ": "Discuss/evaluate/contrast research methods used to study the brain in relation to behaviour."
+  },
+  {
+    "Cog": "Reconstructive Memory",
+    "Bio": "Brown & Harris",
+    "Soc": "Cultural Norms",
+    "Abn": "Pheromone",
+    "EMT": "Null Hypothesis",
+    "ERQ": "Discuss one cognitive approach to the treatment of disorders."
+  },
+  {
+    "Cog": "Availability Heuristic",
+    "Bio": "prevalence",
+    "Soc": "Cultural dimensions",
+    "Abn": "Dendritic branching",
+    "EMT": "Electroencephalography (EEG)",
+    "ERQ": "Evaluate one evolutionary explanation for behaviour, using relevant research."
+  },
+  {
+    "Cog": "Landry & Bartling",
+    "Bio": "Prevalence",
+    "Soc": "Social cognitive theory",
+    "Abn": "Caspi",
+    "EMT": "Deception",
+    "ERQ": "Discuss ethical considerations in the study the etiology of disorders."
+  },
+  {
+    "Cog": "Brewer & Treyens",
+    "Bio": "Cross cultural psychotherapy",
+    "Soc": "Festmger et al (1956)",
+    "Abn": "Neurotransmitter receptors",
+    "EMT": "Populational validity",
+    "ERQ": "Discuss ethical considerations in the treatment of disorders."
+  },
+  {
+    "Cog": "Illusory correlations",
+    "Bio": "Cortisol Hypothesis",
+    "Soc": "Enculturation",
+    "Abn": "Cahill & McGaugh",
+    "EMT": "Reliability",
+    "ERQ": "Discuss/evaluate/contrast research methods used to study cognitive processing."
+  },
+  {
+    "Cog": "Bartlett (1932)",
+    "Bio": "Vulnerability factors",
+    "Soc": "Stereotypes",
+    "Abn": "Major histocompatibility complex genes",
+    "EMT": "Anonymity",
+    "ERQ": "Discuss/evaluate/contrast research methods used to study the reliability cognitive processes."
+  },
+  {
+    "Cog": "Cognitive bias",
     "Bio": "Kendler",
+    "Soc": "Tajfel",
+    "Abn": "Agonist",
+    "EMT": "Debrief",
+    "ERQ": "Discuss approaches to research in the study of the treatment of disorders."
+  },
+  {
+    "Cog": "Short Term Memory",
+    "Bio": "Alloy",
+    "Soc": "Steele & Aronson (1995)Levels of Culture",
+    "Abn": "Acetylcholine",
+    "EMT": "Qualitative",
+    "ERQ": "Discuss ethical considerations relevant to the study of the role of culture in behaviour."
+  },
+  {
+    "Cog": "Halo Effect",
+    "Bio": "CBT",
+    "Soc": "Enculturation",
+    "Abn": "HM",
+    "EMT": "Field experiment",
+    "ERQ": "Evaluate Social Identity Theory."
+  },
+  {
+    "Cog": "Englich & Mussweiler (2001)Alter et Al(2007)",
+    "Bio": "rumination",
     "Soc": "Indirect Model SCT",
-    "Abn": "Adrenaline",
-    "EMT": "Questionnaire",
+    "Abn": "Localization of Function",
+    "EMT": "Correlational experiment",
+    "ERQ": "Discuss approaches to research in the study the etiology of disorders."
+  },
+  {
+    "Cog": "Barnum Effect",
+    "Bio": "Comorbidity",
+    "Soc": "Social identity theory",
+    "Abn": "Gene expression",
+    "EMT": "Unstructured Interview",
+    "ERQ": "Evaluate one model of memory."
+  },
+  {
+    "Cog": "Framing Effect",
+    "Bio": "emic",
+    "Soc": "Illusory Correlation",
+    "Abn": "Terminal buttons",
+    "EMT": "External validity",
     "ERQ": "Discuss ethical considerations relevant to the study of the role of genetics in behaviour."
   },
   {
-    "Cogn": "Availability Heuristic",
-    "Bio": "CBT",
-    "Soc": "Social cognitive theory",
-    "Abn": "Antagonist",
-    "EMT": "Confidentiality",
-    "ERQ": "Contrast two models of memory."
+    "Cog": "Fundamental Attribution",
+    "Bio": "Protective factors",
+    "Soc": "Acculturation",
+    "Abn": "Evolution",
+    "EMT": "Prospective study",
+    "ERQ": "Discuss a sociocultural approach to explaining the etiology of one disorder."
   }
 ]

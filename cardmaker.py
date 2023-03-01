@@ -2,39 +2,51 @@ import json
 import os
 import random
 
-cog = [
-    "Multi-Store Model",
-    "Working Memory Model",
-    "Schema",
-    "Dual Process Model of Thinking and Decision Making",
-    "Englich & Mussweller (2001)" "Alter et Al(2007)",
-    "Loftus & Pickrell (1974)",
-    "Yuillie & Cutshall (1986)",
-    "Loftus & Palmer",
-    "Reconstructive Memory",
-    "Cognitive bias",
-    "Tversky & Kahneman (1974)",
-    "Cahill & McGaugh (1995)",
-    "Bartlett (1932)",
-    "HM" "Strack and Mussweiller",
-    "Confirmation Bias",
-    "Cognitive Dissonance",
-    "Anchoring Bias",
-    "Just World Hypothesis",
-    "Optimism Bias",
-    "Fundemental Attribution",
-    "Framing Effect",
-    "Self-Serving Bias",
-    "Dunning-Kruger Effect",
-    "Barnum Effect",
-    "Halo Effect",
-    "Sunk cost fallacy",
-    "Illusory correlations",
-    "Availability Heuristic",
-    "In-group bias",
-    "Bystander Effect",
-]
-
+cog = ["Multi-Store Model",
+        "Working Memory Model",
+        "Schema",
+        "Dual Process Model of Thinking and Decision Making",
+        "Englich & Mussweiler (2001)"
+        "Alter et Al(2007)",
+        "Loftus & Pickrell (1974)",
+        "Yuille & Cutshall (1986)",
+        "Loftus & Palmer",
+        "Reconstructive Memory",
+        "Cognitive bias",
+        "Tversky & Kahneman (1974)",
+        "Cahill & McGaugh (1995)",
+        "Bartlett (1932)",
+        "HM"
+        "Strack and Mussweiler",
+        "Confirmation Bias",
+        "Cognitive Dissonance",
+        "Anchoring Bias",
+        "Just World Hypothesis",
+        "Optimism Bias",
+        "Fundamental Attribution",
+        "Framing Effect",
+        "Self-Serving Bias",
+        "Dunning-Kruger Effect",
+        "Barnum Effect",
+        "Halo Effect",
+        "Sunk cost fallacy",
+        "Illusory correlations",
+        "Availability Heuristic",
+        "In-group bias",
+        "Bystander Effect"
+        "Cognitive misers",
+        "Glanzer and Cunitz",
+        "Short Term Memory",
+        "Long Term Memory",
+        "WM",
+        "Landry & Bartling",
+        "Warrington & Shallice",
+        "Brewer & Treyens",
+        "Heuristics",
+        "Anchoring",
+        "Emotions & memory",
+        "Flashbulb memory"
+       ]
 
 socul = [
     "Social identity theory",
@@ -56,55 +68,62 @@ socul = [
     "Hamilton & Gifford",
 ]
 
-abnorm = [
-    "Genetics",
-    "Kendler",
-    "Comorbidity",
-    "Serotonin Hypothesis",
-    "Cortisol Hypothesis",
-    "Vulnerability factors",
-    "Protective factors",
-    "Aaron Beck",
-    "Alloy",
-    "Joiner",
-    "Brown & Harris",
-    "prevalence",
-    "emic",
-    "rumination",
-    "etic",
-    "Incidence",
-    "CBT",
-    "Prevelence",
-    "Diasthesis-stress model",
-    "MDD",
+abnorm = ["Genetics",
+          "Kendler",
+          "Comorbidity",
+          "Serotonin Hypothesis",
+          "Cortisol Hypothesis",
+          "Vulnerability factors",
+          "Protective factors",
+          "Aaron Beck",
+          "Alloy",
+          "Joiner",
+          "Brown & Harris",
+          "prevalence",
+          "emic",
+          "rumination",
+          "etic",
+          "Incidence",
+          'CBT',
+          "Prevalence",
+          "Diathesis-stress model",
+          "MDD",
+          "Cross cultural psychotherapy",
+          "Internal model of illness",
+          "Culturally sensitive treatment"
 ]
+bio = ["Localization of Function",
+       "Neuroplasticity",
+       "Dendritic branching",
+       "Synaptic pruning",
+       "Neuron",
+       "Synapse",
+       "Terminal buttons",
+       "Neurotransmitter",
+       "Neurotransmitter receptors",
+       "Agonist",
+       "Evolution",
+       "Antagonist",
+       "Hormone",
+       "Pheromone",
+       "Genetics",
+       "Adrenaline",
+       "Acetylcholine",
+       "Scopolamine",
+       "Major histocompatibility complex genes",
+       "Gene expression",
+       "Eugene Pauly",
+       "HM",
+       "Caspi",
+       "Maguire",
+       "Rosenzweig, Bennet & Diamond",
+       "Kendler",
+       "Weissman et al 2005",
+       "Wedekind",
+       "Cahill & McGaugh",
+       ]
 
-bio = [
-    "Localization of Function",
-    "Neuroplasticity",
-    "Neurotransmitter",
-    "Agonist",
-    "Evolution",
-    "Antagonist",
-    "Hormone",
-    "Pheromone",
-    "Genetics",
-    "Adrenaline",
-    "Acetylcholine",
-    "Eugene Pauly",
-    "HM",
-    "Caspi",
-    "Maguire",
-    "Rosenzweig, Bennet & Diamond",
-    "Kendler",
-    "Weissman et al 2005",
-    "Wedekind",
-    "Cahill & McGaugh",
-]
-
-
-EMT = [
-    "Protection from undue harm",
+EMT = ["Protection from undue harm",
     "Informed Consent",
     "Debrief",
     "Confidentiality",
@@ -116,7 +135,7 @@ EMT = [
     "Questionnaire",
     "Semi-Structured Interview",
     "Unstructured Interview",
-    "Structured Interview",
+    "Structured Interview",   
     "Magnetic Resonance Imaging (MRI)",
     "Deception",
     "Right to withdraw",
@@ -145,14 +164,13 @@ EMT = [
     "Repeated Measures Design",
     "Independent Samples Design",
     "Matched Pairs Design",
-    "Bidirectional ambiguity",
+    "Bidirectional ambiguity"
 ]
-
 
 BioERQ = [
     "Discuss/evaluate/contrast research methods used to study the brain in relation to behaviour.",
     "Discuss ethical considerations relevant to the study of the brain in relation to behaviour.",
-    "Discuss techniques used to study the brain in relation to behavior.",
+    "Discuss techniques used to study the brain in relation to behaviors.",
     "Discuss/evaluate the theory of localization of function, with reference to relevant research.",
     "Discuss neuroplasticity and related research.",
     "Discuss the effect of one or more neurotransmitters on behaviour.",
@@ -243,7 +261,7 @@ class Card:
 
     def dict(self):
         return {
-            "Cogn": self.Cognitive,
+            "Cog": self.Cognitive,
             "Bio": self.Biological,
             "Soc": self.SocioCultural,
             "Abn": self.Abnormal,
@@ -290,7 +308,7 @@ def writer(list) -> None:
 if __name__ == "__main__":
     print("ERQ Length", len(ERQ))
     JsonCards = []
-    for i in range(10):
+    for i in range(17):
         tempCard = initCard()
         JsonCards.append(tempCard.dict())
     writer(JsonCards)
