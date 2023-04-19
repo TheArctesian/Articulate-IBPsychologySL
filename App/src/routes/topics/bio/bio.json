@@ -1,0 +1,68 @@
+[
+  { "Question": "Localization of Function" },
+  { "Question": "Neuroplasticity" },
+  { "Question": "Dendritic branching" },
+  { "Question": "Synaptic pruning" },
+  { "Question": "Neuron" },
+  { "Question": "Synapse" },
+  { "Question": "Terminal buttons" },
+  { "Question": "Neurotransmitter" },
+  { "Question": "Neurotransmitter receptors" },
+  { "Question": "Agonist" },
+  { "Question": "Evolution" },
+  { "Question": "Antagonist" },
+  { "Question": "Hormone" },
+  { "Question": "Pheromone" },
+  { "Question": "Genetics" },
+  { "Question": "Adrenaline" },
+  { "Question": "Acetylcholine" },
+  { "Question": "Scopolamine" },
+  { "Question": "Major histocompatibility complex genes" },
+  { "Question": "Gene expression" },
+  { "Question": "Eugene Pauly" },
+  { "Question": "HM" },
+  { "Question": "Caspi" },
+  { "Question": "Maguire" },
+  { "Question": "Rosenzweig, Bennet & Diamond" },
+  { "Question": "Kendler" },
+  { "Question": "Weissman et al 2005" },
+  { "Question": "Wedekind" },
+  { "Question": "Cahill & McGaugh" },
+  {
+    "Question": "Discuss/evaluate/contrast research methods used to study the brain in relation to behaviour."
+  },
+  {
+    "Question": "Discuss ethical considerations relevant to the study of the brain in relation to behaviour."
+  },
+  {
+    "Question": "Discuss techniques used to study the brain in relation to behaviors."
+  },
+  {
+    "Question": "Discuss/evaluate the theory of localization of function, with reference to relevant research."
+  },
+  { "Question": "Discuss neuroplasticity and related research." },
+  {
+    "Question": "Discuss the effect of one or more neurotransmitters on behaviour."
+  },
+  {
+    "Question": "Discuss/evaluate/contrast research methods used to study hormones in relation to behaviour."
+  },
+  {
+    "Question": "Discuss ethical considerations relevant to the study of hormones in relation to behaviour."
+  },
+  { "Question": "Discuss the effect of one or more hormones on behaviour." },
+  { "Question": "To what extent do pheromones affect human behaviour?" },
+  {
+    "Question": "Discuss/evaluate/contrast research methods used to study the role of genetics in behaviour."
+  },
+  {
+    "Question": "Discuss ethical considerations relevant to the study of the role of genetics in behaviour."
+  },
+  { "Question": "Discuss the role of genes in one or more behaviours." },
+  {
+    "Question": "To what extent does genetic inheritance/similarity influence human behaviour?"
+  },
+  {
+    "Question": "Evaluate one evolutionary explanation for behaviour, using relevant research."
+  }
+]

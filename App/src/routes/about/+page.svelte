@@ -1,10 +1,10 @@
 <script>
-    import "../..//app.css";
+    import "../../app.css";
 </script>
 
 <div class="wrapper">
     <h1 class="text-center ">
-        Hello I made this website for fun you can find out who I am at my
+        Hello I made this website for psyc class you can find out who I am at my
         website <a href="https://www.danielokita.com" class="underline link"
             >danielokita.com</a
         >

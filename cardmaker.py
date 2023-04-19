@@ -2,7 +2,8 @@ import json
 import os
 import random
 
-cog = ["Multi-Store Model",
+cog = [
+    "Multi-Store Model",
         "Working Memory Model",
         "Schema",
         "Dual Process Model of Thinking and Decision Making",
@@ -123,7 +124,8 @@ bio = ["Localization of Function",
        "Cahill & McGaugh",
        ]
 
-EMT = ["Protection from undue harm",
+EMT = [
+    "Protection from undue harm",
     "Informed Consent",
     "Debrief",
     "Confidentiality",
@@ -269,7 +271,14 @@ class Card:
             "ERQ": self.ERQ,
         }
 
-
+class Question: 
+    def __init__(self, string):
+        self.Question = string
+    
+    def dict(self):
+        return {
+            "Questions": self.Question
+        }
 #    def __repr__(self):
 #        return f"Cognative: {self.Cog} \nBiolgical: {self.Bio} \nSocioCultural: {self.Socul} \nAbnormal: {self.Abnor} \nEthics and Res Methods: {self.EMT} \nRandom ERQ: {self.ERQ}"
 #   def toJson(self):
@@ -299,17 +308,21 @@ def initCard():
     print(len(cog))
     return c
 
+def initQuestion(string):
+    q = Question(string)
+    return q
+    
 
-def writer(list) -> None:
-    with open("cards.json", "w") as f:
+def writer(list, name) -> None:
+    with open(name, "w") as f:
         json.dump(list, f)
 
 
 if __name__ == "__main__":
-    print("ERQ Length", len(ERQ))
-    JsonCards = []
-    for i in range(50):
-        tempCard = initCard()
-        JsonCards.append(tempCard.dict())
-    writer(JsonCards)
-# make enough arrays for cards
+   # print("ERQ Length", len(ERQ))
+   # JsonCards = []
+    #for i in range(50):
+    #    tempCard = initCard()
+    #    JsonCards.append(tempCard.dict())
+    #writer(JsonCards)
+    print(ERQ)

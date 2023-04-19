@@ -1,48 +1,51 @@
 <script lang="ts">
+  import questions from "./EMT.json";
   import Typewriter from "svelte-typewriter";
+  import "../../../app.css";
+
+  let askedQuestion: string[] = [];
+  let questionLength: number;
+  let question: string = "Press the button to get a questions";
+  function genRandomQuestion() {
+    questionLength = questions.length;
+    try {
+      let num = Math.floor(Math.random() * questionLength);
+      question = questions[num].Question;
+      questions.splice(num, 1);
+    } catch (error) {
+      question = "you have exhausted all the questions, refresh the tab";
+    }
+    // delete question[num];
+  }
 </script>
 
 <div class="card margin-auto text-center flex-col">
   <div class="c flex flex-col justifty-between">
     <div class="cc">
       <h1 class="text-center m-auto text-2xl">
-        <b class="text-3xl">Question: </b><br />
+        <b class="text-3xl">EMT Question: </b><br />
       </h1>
     </div>
-    <div class="cc pee">
-      <a class="but" href="/topics/bio">Biological</a>
-      <a class="but" href="/topics/cog">Cognitive</a>
-      <a class="but" href="/topics/soc">Sociocultural</a>
-      <a class="but" href="/topics/abn">Abnormal</a>
-      <a class="but" href="/topics/emt">Ethics, Methods and Techniques</a>
-      <a class="but" href="/topics/erq">Random ERQ Question</a>
-      <a class="but" href="/topics/rand">Random Question</a>
+    <div class="cc green">
+      <Typewriter interval="5">
+        <h1>{question}</h1>
+      </Typewriter>
     </div>
     <div class="cc">
-      <a href="/rules" class="text-l underline a">Rules</a>
+      <button class="but" on:click={genRandomQuestion}
+        >Get a new question</button
+      >
     </div>
     <div class="cc">
-      <a href="/about" class="text-l underline a">About this website</a>
+      <a href="/" class="colors">Back to app</a>
     </div>
   </div>
 </div>
 
 <style>
-  .pee {
-    margin: 1rem;
-    display: flex;
-    justify-content: space-between;
-    flex-wrap: wrap;
-    flex-direction: column;
-    padding: 1rem;
-    background-color: var(--red);
-    border: 1rem;
-    border-radius: 0.2rem;
-  }
-  .but {
-    margin: 0.2rem !important;
-    padding: 1rem;
-  }
+.green{
+    background-color: var(--cyan);
+}
   .a {
     color: var(--selection);
   }

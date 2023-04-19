@@ -1,0 +1,78 @@
+[
+  { "Question": "Multi-Store Model" },
+  { "Question": "Working Memory Model" },
+  { "Question": "Schema" },
+  { "Question": "Dual Process Model of Thinking and Decision Making" },
+  { "Question": "Englich & Mussweiler (2001)" },
+  { "Question": "Alter et Al(2007)" },
+  { "Question": "Loftus & Pickrell (1974)" },
+  { "Question": "Yuille & Cutshall (1986)" },
+  { "Question": "Loftus & Palmer" },
+  { "Question": "Reconstructive Memory" },
+  { "Question": "Cognitive bias" },
+  { "Question": "Tversky & Kahneman (1974)" },
+  { "Question": "Cahill & McGaugh (1995)" },
+  { "Question": "Bartlett (1932)" },
+  { "Question": "HM" },
+  { "Question": "Strack and Mussweiler" },
+  { "Question": "Confirmation Bias" },
+  { "Question": "Cognitive Dissonance" },
+  { "Question": "Anchoring Bias" },
+  { "Question": "Just World Hypothesis" },
+  { "Question": "Optimism Bias" },
+  { "Question": "Fundamental Attribution" },
+  { "Question": "Framing Effect" },
+  { "Question": "Self-Serving Bias" },
+  { "Question": "Dunning-Kruger Effect" },
+  { "Question": "Barnum Effect" },
+  { "Question": "Halo Effect" },
+  { "Question": "Sunk cost fallacy" },
+  { "Question": "Illusory correlations" },
+  { "Question": "Availability Heuristic" },
+  { "Question": "In-group bias" },
+  { "Question": "Bystander Effect}" },
+  { "Question": "Cognitive misers" },
+  { "Question": "Glanzer and Cunitz" },
+  { "Question": "Short Term Memory" },
+  { "Question": "Long Term Memory" },
+  { "Question": "WM" },
+  { "Question": "Landry & Bartling" },
+  { "Question": "Warrington & Shallice" },
+  { "Question": "Brewer & Treyens" },
+  { "Question": "Heuristics" },
+  { "Question": "Anchoring" },
+  { "Question": "Emotions & memory" },
+  { "Question": "Flashbulb memory" },
+  {
+    "Question": "Discuss/evaluate/contrast research methods used to study cognitive processing."
+  },
+  {
+    "Question": "Discuss ethical considerations relevant to the study of cognitive processing."
+  },
+  { "Question": "Evaluate one model of memory." },
+  { "Question": "Contrast two models of memory." },
+  { "Question": "Evaluate Schema Theory." },
+  { "Question": "Evaluate one model of thinking and decision-making." },
+  {
+    "Question": "Discuss/evaluate/contrast research methods used to study the reliability cognitive processes."
+  },
+  {
+    "Question": "Discuss ethical considerations relevant to the study of the reliability of cognitive processes."
+  },
+  { "Question": "To what extent is memory reconstructive?" },
+  {
+    "Question": "Evaluate one or more explanations for biases in thinking and/or decision-making."
+  },
+  {
+    "Question": "Discuss/evaluate/contrast research methods used to study the role of emotion in cognition."
+  },
+  {
+    "Question": "Discuss ethical considerations relevant to the study of emotion and cognition."
+  },
+  {
+    "Question": "To what extent does emotion influence one or more cognitive processes? "
+  },
+  {
+    "Question": "Discuss the role of emotion in one or more cognitive processes."
+  }
+]

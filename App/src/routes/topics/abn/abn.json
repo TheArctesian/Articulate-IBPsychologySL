@@ -1,0 +1,54 @@
+[
+  { "Question": "Genetics" },
+  { "Question": "Kendler" },
+  { "Question": "Comorbidity" },
+  { "Question": "Serotonin Hypothesis" },
+  { "Question": "Cortisol Hypothesis" },
+  { "Question": "Vulnerability factors" },
+  { "Question": "Protective factors" },
+  { "Question": "Aaron Beck" },
+  { "Question": "Alloy" },
+  { "Question": "Joiner" },
+  { "Question": "Brown & Harris" },
+  { "Question": "prevalence" },
+  { "Question": "emic" },
+  { "Question": "rumination" },
+  { "Question": "etic" },
+  { "Question": "Incidence" },
+  { "Question": "CBT" },
+  { "Question": "Prevalence" },
+  { "Question": "Diathesis-stress model" },
+  { "Question": "MDD" },
+  { "Question": "Cross cultural psychotherapy" },
+  { "Question": "Internal model of illness" },
+  { "Question": "Culturally sensitive treatment" },
+  {
+    "Question": "Discuss a biological approach to explaining the etiology of one disorder."
+  },
+  {
+    "Question": "Discuss a cognitive approach to explaining the etiology of one disorder."
+  },
+  {
+    "Question": "Discuss a sociocultural approach to explaining the etiology of one disorder."
+  },
+  {
+    "Question": "Discuss ethical considerations in the study the etiology of disorders."
+  },
+  {
+    "Question": "Discuss approaches to research in the study the etiology of disorders."
+  },
+  { "Question": "Discuss one etiology of one disorder." },
+  { "Question": "Discuss prevalence rates of disorders." },
+  {
+    "Question": "Discuss one biological approach to the treatment of disorders."
+  },
+  {
+    "Question": "Discuss one cognitive approach to the treatment of disorders."
+  },
+  {
+    "Question": "Discuss ethical considerations in the treatment of disorders."
+  },
+  {
+    "Question": "Discuss approaches to research in the study of the treatment of disorders."
+  }
+]
