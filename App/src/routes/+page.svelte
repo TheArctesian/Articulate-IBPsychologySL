@@ -35,7 +35,7 @@
     flex-wrap: wrap;
     flex-direction: column;
     padding: 1rem;
-    background-color: var(--red);
+    background-color: var(--purple);
     border: 1rem;
     border-radius: 0.2rem;
   }

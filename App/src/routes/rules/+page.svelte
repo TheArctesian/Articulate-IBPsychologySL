@@ -105,7 +105,6 @@
     margin-right: 5vw;
     margin-top: 5vh;
     margin-bottom: 5vh;
-    height: 90vh;
     font-size: small;
     display: flex;
     justify-content: center;
